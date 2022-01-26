@@ -11,7 +11,7 @@ Meras is a cross platform application that helps users in learning basic driving
 and practically by booking a driving coach in their region.
 <br>
  <br>
-Meras provide its users (Trainees and Coaches) with the following features:
+Meras provides its users (Trainees and Coaches) with the following features:
  
 <h2> Coach: </h2>
  
