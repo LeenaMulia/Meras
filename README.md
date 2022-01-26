@@ -24,7 +24,7 @@ Meras provides its users (Trainees and Coaches) with the following features:
  -Coach can communicate with the trainee via private chat <br>
  -Coach can view his/her commulative earnings of the lessons <br>
  -Coach can view his/her average rate <br>
- -Coach can view his/her pending, rejected,accepted and paid lessons <br>
+ -Coach can view his/her pending, rejected, accepted and paid lessons <br>
  -Coach can view and edit his/her personal profile <br>
  
  <br>
